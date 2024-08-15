@@ -34,7 +34,7 @@ videoInstance.short({
 videoInstance.short(...).short(...)
 ```
 
-#### E finalmente obter o resultado
+#### And finally get the result
 ```js
 // to perform all cuts at the same time (uses more resources)
 videoInstance.parallel()
